@@ -18,7 +18,8 @@
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-// 
+// 內建100M的100M / (2^13)約為6103.5 Hz
+// if built-in frequency is 100M, then output frequency would be 100M/(2^13) = 6103.5Hz
 //////////////////////////////////////////////////////////////////////////////////
 
 module my_counter(
